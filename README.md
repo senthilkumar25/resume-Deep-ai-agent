@@ -1,5 +1,7 @@
 ---
 # 🤖 ResumeForge AI  
+## License
+This project is licensed under the MIT License.
 ### Intelligent ATS Optimization Engine  
 <p align="center">  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Streamlit-App-ff4b4b?style=for-the-badge&logo=streamlit" /> <img src="https://img.shields.io/badge/LangGraph-Agentic-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/LLM-Groq%20%7C%20Gemini-orange?style=for-the-badge" /> </p> <p align="center"> <b>Agentic Resume Intelligence powered by Hybrid ATS Scoring & Semantic Alignment</b> </p>
 
